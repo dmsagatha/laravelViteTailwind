@@ -22,7 +22,7 @@
   <body class="antialiased">
     <div class="flex justify-center items-center h-screen">
       <h1 class="text-3xl text-purple-600 font-bold">
-        Laravel 9 Vite with Tailwind CSS!
+        Laravel 9 Vite with <a href="https://tailwindcss.com/">Tailwind CSS!</a>
         <i class="fas fa-camera fa-2x pl-3"></i>
       </h1>
     </div>
